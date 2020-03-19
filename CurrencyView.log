@@ -1,0 +1,26 @@
+com.fdmgroup.conversionratesystem.view - printResultOfEuroToCurrency method with arguments 7, 7.8561, USD
+com.fdmgroup.conversionratesystem.view - printResultOfCurrencyToEuro method with arguments 5, 4.45514, USD
+com.fdmgroup.conversionratesystem.view - printResultOfCurrencyToEuro method with arguments 4, 3.56411, USD
+com.fdmgroup.conversionratesystem.view - printResultOfCurrencyToEuro method with arguments 5.5, 4.90065, USD
+com.fdmgroup.conversionratesystem.view - printResultOfCurrencyToEuro method with arguments 5.5, 4.90065, USD
+com.fdmgroup.conversionratesystem.view - printResultOfCurrencyToEuro method with arguments 5, 4.45514, USD
+com.fdmgroup.conversionratesystem.view - printResultOfCurrencyToEuro method with arguments 5, 4.45514, USD
+com.fdmgroup.conversionratesystem.view - printResultOfCurrencyToEuro method with arguments 5, 4.45514, USD
+com.fdmgroup.conversionratesystem.view - printResultOfCurrencyToEuro method with arguments 5, 4.45514, USD
+com.fdmgroup.conversionratesystem.view - printResultOfCurrencyToEuro method with arguments 5, 4.45514, USD
+com.fdmgroup.conversionratesystem.view - printResultOfCurrencyToEuro method with arguments 5.5, 4.90065, USD
+com.fdmgroup.conversionratesystem.view - printResultOfCurrencyToEuro method with arguments 5.5, 4.90065, USD
+com.fdmgroup.conversionratesystem.view - printResultOfEuroToCurrency method with arguments 5, 5.6115, USD
+com.fdmgroup.conversionratesystem.view - printResultOfEuroToCurrency method with arguments 6, 6.7338, USD
+<<<<<<< HEAD
+com.fdmgroup.conversionratesystem.view - printResultOfEuroToCurrency method with arguments 4, 4.4892, USD
+com.fdmgroup.conversionratesystem.view - printResultOfEuroToCurrency method with arguments 6, 6.7338, USD
+com.fdmgroup.conversionratesystem.view - printResultOfEuroToCurrency method with arguments 6, 6.7338, USD
+com.fdmgroup.conversionratesystem.view - printResultOfEuroToCurrency method with arguments 9, 10.1007, USD
+com.fdmgroup.conversionratesystem.view - printResultOfEuroToCurrency method with arguments 9.8, 10.9985, USD
+com.fdmgroup.conversionratesystem.view - printResultOfCurrencyToEuro method with arguments 7, 6.23719, USD
+com.fdmgroup.conversionratesystem.view - printResultOfEuroToCurrency method with arguments 9, 10.1007, USD
+=======
+com.fdmgroup.conversionratesystem.view - printResultOfEuroToCurrency method with arguments 5, 5.6115, USD
+com.fdmgroup.conversionratesystem.view - printResultOfEuroToCurrency method with arguments 5, 5.6115, USD
+>>>>>>> e553c7006bce624a89fd0c7be9544644c7443d0d

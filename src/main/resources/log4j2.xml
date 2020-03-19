@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+  <Appenders>
+	<File name="FileAppender" filename="CurrencyConversionSystem.log">
+      <PatternLayout pattern="%logger - %msg%n" />
+    </File>
+    <File name="FileAppenderCurrencyController" filename="CurrencyController.log">
+      <PatternLayout pattern="%logger - %msg%n" />
+    </File>
+    <File name="FileAppenderMenu" filename="CurrencyMenu.log">
+      <PatternLayout pattern="%logger - %msg%n" />
+    </File>
+    <File name="FileAppenderCurrencyConversion" filename="CurrencyConversion.log">
+      <PatternLayout pattern="%logger - %msg%n" />
+    </File>
+    <File name="FileAppenderCurrencyRateParser" filename="CurrencyRateParser.log">
+      <PatternLayout pattern="%logger - %msg%n" />
+    </File>
+    <File name="FileAppenderCurrencyView" filename="CurrencyView.log">
+      <PatternLayout pattern="%logger - %msg%n" />
+    </File>
+  </Appenders>
+  <Loggers>
+    <Root level="trace">
+      <AppenderRef ref="FileAppender" />
+    </Root>
+    <Logger name="com.fdmgroup.conversionratesystem.currencycontroller" level="trace">
+      <AppenderRef ref="FileAppenderCurrencyController" />
+    </Logger>
+    <Logger name="com.fdmgroup.conversionratesystem.currencymenu" level="trace">
+      <AppenderRef ref="FileAppenderMenu" />
+    </Logger>
+    <Logger name="com.fdmgroup.conversionratesystem.currencyconversion" level="trace">
+      <AppenderRef ref="FileAppenderCurrencyConversion" />
+    </Logger>
+    <Logger name="com.fdmgroup.conversionratesystem.currencyrateparser" level="trace">
+      <AppenderRef ref="FileAppenderCurrencyRateParser" />
+    </Logger>
+    <Logger name="com.fdmgroup.conversionratesystem.view" level="trace">
+      <AppenderRef ref="FileAppenderCurrencyView" />
+    </Logger>
+  </Loggers>
+</Configuration>
